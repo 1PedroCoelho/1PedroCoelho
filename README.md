@@ -1,4 +1,4 @@
-## Oi Eu sou o Pedo Coelho
+## Oi Eu sou o Pedro Coelho
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="center"
