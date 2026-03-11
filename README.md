@@ -1,4 +1,9 @@
-## Hi there 👋
+## Oi Eu sou o Pedo Coelho
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center"
+       src="https://github-readme-stats-brown-beta-80.vercel.app/api?username=SaraPasolini&show_icons=true&theme=omni" />
+</a>
 
 <!--
 **1PedroCoelho/1PedroCoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
