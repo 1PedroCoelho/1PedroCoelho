@@ -2,7 +2,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="center"
-       src="https://github-readme-stats-brown-beta-80.vercel.app/api?username=SaraPasolini&show_icons=true&theme=omni" />
+       src="https://github-readme-stats-brown-beta-80.vercel.app/api?username=1PedroCoelho&show_icons=true&theme=omni" />
 </a>
 
 <!--
