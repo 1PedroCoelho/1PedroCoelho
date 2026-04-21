@@ -1,15 +1,29 @@
-## Oi Eu sou o Pedro Coelho
+## 👋 Oi, eu sou o Pedro Coelho
+
+<p align="center">
+  <a href="https://www.instagram.com/1pedro_coelho/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-coelho-493a892b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="center"
        src="https://github-readme-stats-brown-beta-80.vercel.app/api?username=1PedroCoelho&show_icons=true&theme=tokyonight" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="200" align="center"
        src="https://github-readme-stats-brown-beta-80.vercel.app/api/top-langs?username=1PedroCoelho&layout=compact&langs_count=8&theme=tokyonight&card_width=320" />
 </a>
 
-<p>
+<br><br>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30"/>
